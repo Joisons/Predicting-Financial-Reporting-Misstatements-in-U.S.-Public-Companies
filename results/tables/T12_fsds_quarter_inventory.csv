@@ -1,0 +1,75 @@
+sub,num,quarter,n_sub,status
+2026q3/sub (2).txt,2026q3/num (2).txt,2026Q1,6169.0,ok
+2026q3/sub (3).txt,2026q3/num (3).txt,2026Q2,7714.0,ok
+2026q3/sub.txt,2026q3/num.txt,2026Q3,6516.0,ok
+SEC_Financial_Statements_2009/sub (2).txt,SEC_Financial_Statements_2009/num (2).txt,2009Q2,22.0,ok
+SEC_Financial_Statements_2009/sub (3).txt,SEC_Financial_Statements_2009/num (3).txt,2009Q3,435.0,ok
+SEC_Financial_Statements_2009/sub (4).txt,SEC_Financial_Statements_2009/num (4).txt,2009Q4,484.0,ok
+SEC_Financial_Statements_2009/sub.txt,,,,empty sub file
+SEC_Financial_Statements_2010/sub (2).txt,SEC_Financial_Statements_2010/num (2).txt,2010Q2,522.0,ok
+SEC_Financial_Statements_2010/sub (3).txt,SEC_Financial_Statements_2010/num (3).txt,2010Q3,1412.0,ok
+SEC_Financial_Statements_2010/sub (4).txt,SEC_Financial_Statements_2010/num (4).txt,2010Q4,1474.0,ok
+SEC_Financial_Statements_2010/sub.txt,SEC_Financial_Statements_2010/num.txt,2010Q1,495.0,ok
+SEC_Financial_Statements_2011/sub (2).txt,SEC_Financial_Statements_2011/num (2).txt,2011Q2,1705.0,ok
+SEC_Financial_Statements_2011/sub (3).txt,SEC_Financial_Statements_2011/num (3).txt,2011Q3,7102.0,ok
+SEC_Financial_Statements_2011/sub (4).txt,SEC_Financial_Statements_2011/num (4).txt,2011Q4,7585.0,ok
+SEC_Financial_Statements_2011/sub.txt,SEC_Financial_Statements_2011/num.txt,2011Q1,1499.0,ok
+SEC_Financial_Statements_2012/sub (2).txt,SEC_Financial_Statements_2012/num (2).txt,2012Q2,9193.0,ok
+SEC_Financial_Statements_2012/sub (3).txt,SEC_Financial_Statements_2012/num (3).txt,2012Q3,8002.0,ok
+SEC_Financial_Statements_2012/sub (4).txt,SEC_Financial_Statements_2012/num (4).txt,2012Q4,8115.0,ok
+SEC_Financial_Statements_2012/sub.txt,SEC_Financial_Statements_2012/num.txt,2012Q1,7418.0,ok
+SEC_Financial_Statements_2013/sub (2).txt,SEC_Financial_Statements_2013/num (2).txt,2013Q2,8954.0,ok
+SEC_Financial_Statements_2013/sub (3).txt,SEC_Financial_Statements_2013/num (3).txt,2013Q3,8038.0,ok
+SEC_Financial_Statements_2013/sub (4).txt,SEC_Financial_Statements_2013/num (4).txt,2013Q4,7846.0,ok
+SEC_Financial_Statements_2013/sub (5).txt,,2013Q4,,duplicate download
+SEC_Financial_Statements_2013/sub.txt,SEC_Financial_Statements_2013/num.txt,2013Q1,6788.0,ok
+SEC_Financial_Statements_2014/sub (2).txt,SEC_Financial_Statements_2014/num (2).txt,2014Q2,8550.0,ok
+SEC_Financial_Statements_2014/sub (3).txt,SEC_Financial_Statements_2014/num (3).txt,2014Q3,7790.0,ok
+SEC_Financial_Statements_2014/sub (4).txt,SEC_Financial_Statements_2014/num (5).txt,2014Q4,7713.0,ok
+SEC_Financial_Statements_2014/sub.txt,SEC_Financial_Statements_2014/num.txt,2014Q1,7158.0,ok
+SEC_Financial_Statements_2015/sub (2).txt,SEC_Financial_Statements_2015/num (2).txt,2015Q2,8212.0,ok
+SEC_Financial_Statements_2015/sub (3).txt,SEC_Financial_Statements_2015/num (3).txt,2015Q3,7455.0,ok
+SEC_Financial_Statements_2015/sub (4).txt,SEC_Financial_Statements_2015/num (4).txt,2015Q4,7234.0,ok
+SEC_Financial_Statements_2015/sub.txt,SEC_Financial_Statements_2015/num.txt,2015Q1,6995.0,ok
+SEC_Financial_Statements_2016/sub (2).txt,SEC_Financial_Statements_2016/num (2).txt,2016Q2,7518.0,ok
+SEC_Financial_Statements_2016/sub (3).txt,SEC_Financial_Statements_2016/num (3).txt,2016Q3,6139.0,ok
+SEC_Financial_Statements_2016/sub (4).txt,SEC_Financial_Statements_2016/num (4).txt,2016Q4,6752.0,ok
+SEC_Financial_Statements_2016/sub.txt,SEC_Financial_Statements_2016/num.txt,2016Q1,6532.0,ok
+SEC_Financial_Statements_2017/sub (2).txt,SEC_Financial_Statements_2017/num (2).txt,2017Q2,7226.0,ok
+SEC_Financial_Statements_2017/sub (3).txt,SEC_Financial_Statements_2017/num (3).txt,2017Q3,6508.0,ok
+SEC_Financial_Statements_2017/sub (4).txt,SEC_Financial_Statements_2017/num (4).txt,2017Q4,6549.0,ok
+SEC_Financial_Statements_2017/sub.txt,SEC_Financial_Statements_2017/num.txt,2017Q1,6270.0,ok
+SEC_Financial_Statements_2018/sub (2).txt,SEC_Financial_Statements_2018/num (2).txt,2018Q2,7484.0,ok
+SEC_Financial_Statements_2018/sub (3).txt,SEC_Financial_Statements_2018/num (3).txt,2018Q3,6493.0,ok
+SEC_Financial_Statements_2018/sub (4).txt,SEC_Financial_Statements_2018/num (4).txt,2018Q4,6418.0,ok
+SEC_Financial_Statements_2018/sub.txt,SEC_Financial_Statements_2018/num.txt,2018Q1,5984.0,ok
+SEC_Financial_Statements_2019/sub (2).txt,SEC_Financial_Statements_2019/num (2).txt,2019Q2,7232.0,ok
+SEC_Financial_Statements_2019/sub (3).txt,SEC_Financial_Statements_2019/num (3).txt,2019Q3,6274.0,ok
+SEC_Financial_Statements_2019/sub (4).txt,SEC_Financial_Statements_2019/num (4).txt,2019Q4,6211.0,ok
+SEC_Financial_Statements_2019/sub.txt,SEC_Financial_Statements_2019/num.txt,2019Q1,5708.0,ok
+SEC_Financial_Statements_2020/sub (2).txt,SEC_Financial_Statements_2020/num (2).txt,2020Q2,6561.0,ok
+SEC_Financial_Statements_2020/sub (3).txt,SEC_Financial_Statements_2020/num (3).txt,2020Q3,6302.0,ok
+SEC_Financial_Statements_2020/sub (4).txt,SEC_Financial_Statements_2020/num (4).txt,2020Q4,6260.0,ok
+SEC_Financial_Statements_2020/sub.txt,SEC_Financial_Statements_2020/num.txt,2020Q1,5816.0,ok
+SEC_Financial_Statements_2021/sub (2).txt,SEC_Financial_Statements_2021/num (2).txt,2021Q2,7810.0,ok
+SEC_Financial_Statements_2021/sub (3).txt,SEC_Financial_Statements_2021/num (3).txt,2021Q3,7499.0,ok
+SEC_Financial_Statements_2021/sub (4).txt,SEC_Financial_Statements_2021/num (4).txt,2021Q4,7556.0,ok
+SEC_Financial_Statements_2021/sub.txt,SEC_Financial_Statements_2021/num.txt,2021Q1,6316.0,ok
+SEC_Financial_Statements_2022(1)/sub (2).txt,SEC_Financial_Statements_2022(1)/num (2).txt,2022Q2,8509.0,ok
+SEC_Financial_Statements_2022(1)/sub (3).txt,SEC_Financial_Statements_2022(1)/num (3).txt,2022Q3,7474.0,ok
+SEC_Financial_Statements_2022(1)/sub (4).txt,SEC_Financial_Statements_2022(1)/num (4).txt,2022Q4,7280.0,ok
+SEC_Financial_Statements_2022(1)/sub.txt,SEC_Financial_Statements_2022(1)/num.txt,2022Q1,7237.0,ok
+SEC_Financial_Statements_2023(1)/2023q1/sub.txt,SEC_Financial_Statements_2023(1)/2023q1/num.txt,2023Q1,6754.0,ok
+SEC_Financial_Statements_2023(1)/2023q2/sub.txt,SEC_Financial_Statements_2023(1)/2023q2/num.txt,2023Q2,8039.0,ok
+SEC_Financial_Statements_2023(1)/2023q3/sub.txt,SEC_Financial_Statements_2023(1)/2023q3/num.txt,2023Q3,7067.0,ok
+SEC_Financial_Statements_2023(1)/2023q4/sub.txt,SEC_Financial_Statements_2023(1)/2023q4/num.txt,2023Q4,6882.0,ok
+SEC_Financial_Statements_2024(1)/2024q1/sub.txt,SEC_Financial_Statements_2024(1)/2024q1/num.txt,2024Q1,6028.0,ok
+SEC_Financial_Statements_2024(1)/2024q2/sub.txt,SEC_Financial_Statements_2024(1)/2024q2/num.txt,2024Q2,7675.0,ok
+SEC_Financial_Statements_2024(1)/2024q3/sub.txt,SEC_Financial_Statements_2024(1)/2024q3/num.txt,2024Q3,6699.0,ok
+SEC_Financial_Statements_2024(1)/2024q4/sub.txt,SEC_Financial_Statements_2024(1)/2024q4/num.txt,2024Q4,6491.0,ok
+SEC_Financial_Statements_2025(1)/sub (2).txt,SEC_Financial_Statements_2025(1)/num (2).txt,2025Q4,6304.0,ok
+SEC_Financial_Statements_2025(1)/sub (3).txt,,2025Q4,,duplicate download
+SEC_Financial_Statements_2025(1)/sub (4).txt,SEC_Financial_Statements_2025(1)/num (4).txt,2025Q1,6231.0,ok
+SEC_Financial_Statements_2025(1)/sub (5).txt,SEC_Financial_Statements_2025(1)/num (5).txt,2025Q2,7009.0,ok
+SEC_Financial_Statements_2025(1)/sub (6).txt,,2025Q2,,duplicate download
+SEC_Financial_Statements_2025(1)/sub.txt,SEC_Financial_Statements_2025(1)/num.txt,2025Q3,6541.0,ok

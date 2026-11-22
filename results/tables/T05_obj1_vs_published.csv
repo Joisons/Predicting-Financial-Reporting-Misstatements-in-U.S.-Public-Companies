@@ -1,0 +1,5 @@
+,AUC,NDCG@1%,Frauds in top 1%
+"Bao et al. (2020), published",0.725,0.049,16.0
+"Bao et al. (2022), erratum",0.7228,0.0237,10.0
+"This study: RUSBoost, recode (mean of 3 seeds)",0.7188,0.0216,9.0
+"This study: RUSBoost, naive (mean of 3 seeds)",0.7788,0.0609,18.3333

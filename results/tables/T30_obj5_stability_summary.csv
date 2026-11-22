@@ -1,0 +1,3 @@
+sample,adjacent-year Spearman (min),adjacent-year Spearman (median),first vs last year Spearman,top-10 Jaccard first vs last
+Compustat/AAER 2003-14,0.7864030467547201,0.9364719228587635,0.6927315452556521,0.5384615384615384
+XBRL/restatement 2013-24,0.5140257059761704,0.9131332082551596,0.5180355557085052,0.25
