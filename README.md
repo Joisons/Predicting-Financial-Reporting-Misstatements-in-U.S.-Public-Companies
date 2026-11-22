@@ -2,7 +2,7 @@
 
 **Temporal validation of machine-learning models, XBRL-based data integration and risk-based audit resource allocation**
 
-Author: Tosin Bello
+Author: Olumide Johnson Ikumapayi
 
 This repository contains the code, executed notebooks and result tables for the study. Each notebook answers one research objective and runs end to end from the raw public data.
 
@@ -89,8 +89,4 @@ For each original 10-K in the FSDS, the study looks for a later 10-K/A for the s
 
 ## Citation
 
-If you use this code, please cite the accompanying paper (Bello, *forthcoming*) and Bao, Y., Ke, B., Li, B., Yu, Y. J., & Zhang, J. (2020). Detecting accounting fraud in publicly traded U.S. firms using a machine learning approach. *Journal of Accounting Research*, 58(1), 199–235.
-
-## Licence
-
-Code: MIT (add a `LICENSE` file before publishing). Data: subject to the terms of their providers.
+If you use this code, please cite the accompanying paper (Ikumapayi, *forthcoming*) and Bao, Y., Ke, B., Li, B., Yu, Y. J., & Zhang, J. (2020). Detecting accounting fraud in publicly traded U.S. firms using a machine learning approach. *Journal of Accounting Research*, 58(1), 199–235.
